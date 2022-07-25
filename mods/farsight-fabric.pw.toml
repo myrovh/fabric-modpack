@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3778514
 project-id = 579192
+
+[option]
+optional = true
+default = false
+description = "See further than the server render distance using client side cached chunks (works with shaders)"

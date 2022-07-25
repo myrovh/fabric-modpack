@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "26a624eb3b6dc05ca4ff5b0b9710a87574a037bc12a7e85feb2e4c15413472aa"
-
-[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -149,6 +145,11 @@ hash = "e327e19bf91efbf94efd0eb4e95d3ff9bda3711a0876e8d92b655b1968e0888b"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "b20eef93c4548541fce7135210abeaf2b9e9f21696b63b39fc1381793213bb20"
+metafile = true
+
+[[files]]
 file = "mods/dont-clear-chat-history.pw.toml"
 hash = "693344ce972691fd891344a4b8d02d8860495ab2ad6c0c3f6996a2c004e6cf1a"
 metafile = true
@@ -174,6 +175,11 @@ hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
 metafile = true
 
 [[files]]
+file = "mods/excavated_variants.pw.toml"
+hash = "dd2fc45c058c773adf57b559200c9913113641b0d52a23956b7b11ecdeb7c624"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
 metafile = true
@@ -190,12 +196,17 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "2a7ee2fc40368d86e59563d23228118d8a3004f97ffc0c081062e77f41a6f532"
+hash = "ecb17721dcccf4624904edbc294e6d15534b477bea36220530d9bd0eea36084f"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
+metafile = true
+
+[[files]]
+file = "mods/hyle.pw.toml"
+hash = "dd414adfc936eecc6dcdd0639a10015602dac71d80a7b1008265ba94f1a88648"
 metafile = true
 
 [[files]]
@@ -205,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "cfddb6e630e8fb8998acc05a01cecf2439883d007b4b9ec87b92ae4f438bb8e8"
+hash = "dcf7a643d0322e89a455b7c769acb6643384eb32d75c1eab55f16ca9604cbf3c"
 metafile = true
 
 [[files]]
@@ -304,8 +315,23 @@ hash = "73259e05c16e2461736d7d7ddc8775ca97c9efd70e6a912dc2280e2bf2c67396"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "521243f1869918c709d94db11f69e3b1268a652bac8af0973dec7ee1b4583170"
+metafile = true
+
+[[files]]
+file = "mods/unearthed.pw.toml"
+hash = "36a61351de67e3c86a40fe83659d9da2fd9dc3d84ec92c5814655e2ca4a886f1"
 metafile = true
 
 [[files]]

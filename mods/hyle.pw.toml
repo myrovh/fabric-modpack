@@ -1,0 +1,13 @@
+name = "Hyle"
+filename = "Hyle-fabric-1.18.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "676acb20ffb0fe975ae9fa604e39dcf7d3003b35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3746990
+project-id = 609850

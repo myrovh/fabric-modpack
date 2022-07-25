@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3820231
 project-id = 455508
+
+[option]
+optional = true
+default = false
+description = "Enable the use of shaders"

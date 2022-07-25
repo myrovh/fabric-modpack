@@ -1,0 +1,13 @@
+name = "Myrovh's Modpack (fabric)"
+author = "myrovh"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "61411081aa2d1a20cf0f0d9590ba22000e9c9c4df59a571b40530960c7a640a4"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.18.2"

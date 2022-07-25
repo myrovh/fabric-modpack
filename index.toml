@@ -13,14 +13,6 @@ file = "config/debugify.json"
 hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "3cc0ce6f147ccf91af084fb4ef07301a9a09bcf681a38e7b3e61352effcd3903"
-
-[[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "0493a5d26485894156da952d8f575431449c708255b554d7c6755e4592cd97c8"
-
-[[files]]
 file = "config/modmenu.json"
 hash = "b140184afb51de3614a0ca47132396e931cd7c74e8c1af05f3b6020b34350157"
 
@@ -325,7 +317,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "09769ba020fda1f25d7a66c44e16c42cc1b740937a3aac1d3efac58a88d2941c"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "b28001e00e35ecdb878e5ffa097f5a80758d41bba5fda0018f887a0b974e9c6e"

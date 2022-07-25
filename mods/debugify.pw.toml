@@ -1,6 +1,6 @@
 name = "Debugify"
 filename = "debugify-1.11.0-fabric-1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

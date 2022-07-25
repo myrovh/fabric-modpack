@@ -330,6 +330,11 @@ hash = "521243f1869918c709d94db11f69e3b1268a652bac8af0973dec7ee1b4583170"
 metafile = true
 
 [[files]]
+file = "mods/twigs.pw.toml"
+hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
+metafile = true
+
+[[files]]
 file = "mods/unearthed.pw.toml"
 hash = "36a61351de67e3c86a40fe83659d9da2fd9dc3d84ec92c5814655e2ca4a886f1"
 metafile = true

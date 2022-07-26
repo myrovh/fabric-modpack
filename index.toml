@@ -17,6 +17,10 @@ file = "config/puzzle.json"
 hash = "2a7c463f581910b0daf713ece461106f92894f9cb4af3655dad13152003005cf"
 
 [[files]]
+file = "config/sandwichable.json"
+hash = "74ab14ff3d048b02e0b40bda6f7e6f7e8808a86312748fec548a06e92ce474ea"
+
+[[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
 
@@ -145,13 +149,18 @@ hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml"
-hash = "e02d663eb05ced05c6b525a6dea26e4a0652e3778fc6dba27649b9a4eabfa533"
+file = "mods/continuity.pw.toml"
+hash = "1707339227e49193dd206fb053da7a7f54d5968ca20ea17b6274b6e8a41034fa"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "1707339227e49193dd206fb053da7a7f54d5968ca20ea17b6274b6e8a41034fa"
+file = "mods/create-fabric.pw.toml"
+hash = "c5bd4a4596e5a5b994963e8804a10fab35729c3ce86e6f5797efa38ccefab0bc"
+metafile = true
+
+[[files]]
+file = "mods/createplus.pw.toml"
+hash = "8a4802536ab925162bb3e343137d56d0958453f559a38515ff686f49446e81db"
 metafile = true
 
 [[files]]
@@ -270,6 +279,11 @@ hash = "130976ca98c3b2514ba7f4246dfb1e9ceff213d8a1ff62748c26461b5e345085"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "34cf204f9b291735f08270c26d8b8e091055bf55aa388af0f2248616059a0c27"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "d35f37a8030fcea2d00f21143a7918ff9e6b654e3406e07646e1f27a4330f71a"
 metafile = true
@@ -350,6 +364,11 @@ hash = "d70615ecd77c24c07fac4bc89797b19fa0e63f3028477aadaca95e138c4e617e"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "9f134aeba7d0a3c50c75fc8a4acf07a7b87b455732d7f48de3df10b7525f9460"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "fa25779d8061f5614d7957b00127bea80aadf71df7f8f6e9e6d4b5a6e98a9764"
 metafile = true
@@ -407,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/unearthed.pw.toml"
 hash = "36a61351de67e3c86a40fe83659d9da2fd9dc3d84ec92c5814655e2ca4a886f1"
+metafile = true
+
+[[files]]
+file = "mods/wmitaf.pw.toml"
+hash = "e9b6eeb2a621196bda999018a33634fd61ac49a17e6d9b2fe7edbdcd5a6d3418"
 metafile = true
 
 [[files]]

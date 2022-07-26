@@ -85,6 +85,11 @@ file = "config/yosbr/options.txt"
 hash = "69305f9d9e0c54cc866cd9d3a381f14532e3be6b9b00a80707c19517e6a0874b"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "31989a5f410723c78e4a7d811c14728a3ff9c3b6be4f1f8913c1b318e0c1da41"
 metafile = true
@@ -97,6 +102,21 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "84406e0537b1e4582e8f314de6dee3589da9196f29798284f9255bbfd69c2621"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "003a7bf924d0ed3666ff3396036869b3eb67e38ecb7749aa6c061d5367c2053b"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "109a2bb4f7407b83c3470846349b162fd04cf2cd66d0534643d101f54f69721e"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
 metafile = true
 
 [[files]]
@@ -120,6 +140,11 @@ hash = "f315d7054a2af1da81d5f93be84dce68484fd9546d4d8200f5cf6d43aa5d4082"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+metafile = true
+
+[[files]]
 file = "mods/colormatic.pw.toml"
 hash = "e02d663eb05ced05c6b525a6dea26e4a0652e3778fc6dba27649b9a4eabfa533"
 metafile = true
@@ -127,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "1707339227e49193dd206fb053da7a7f54d5968ca20ea17b6274b6e8a41034fa"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "8f3bd670eadd9b510ced2311c7da0b2444c25f1e9b0ece1fcb1421f4073c1dbf"
 metafile = true
 
 [[files]]
@@ -155,6 +185,11 @@ hash = "693344ce972691fd891344a4b8d02d8860495ab2ad6c0c3f6996a2c004e6cf1a"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-asset-generator.pw.toml"
+hash = "64e403e0e26ff37afab520af75ed95db29c3dc3dcbd1522a6d84db56e31b762e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "9866735e21df63a53081d54a26cbc83fce6a6f5bfd89a13645a60534a415e80c"
 metafile = true
@@ -175,6 +210,11 @@ hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
 metafile = true
 
 [[files]]
+file = "mods/excavated-variants.pw.toml"
+hash = "dc51401553259a6fde447a212f64cad28380eafa3180452277425e86794e9c1f"
+metafile = true
+
+[[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "dd2fc45c058c773adf57b559200c9913113641b0d52a23956b7b11ecdeb7c624"
 metafile = true
@@ -182,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
+metafile = true
+
+[[files]]
+file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
+hash = "01d525676bd86896160f404dd43f15c57f9514de5c8a16deea1ad2b5c378fe59"
 metafile = true
 
 [[files]]
@@ -225,6 +270,11 @@ hash = "130976ca98c3b2514ba7f4246dfb1e9ceff213d8a1ff62748c26461b5e345085"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "d35f37a8030fcea2d00f21143a7918ff9e6b654e3406e07646e1f27a4330f71a"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "905dc99e6d4dc14b83a740e8b3272f1077e2759889d6ae133061c0bea2ca5126"
 metafile = true
@@ -247,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "cb53e3d125e25bc7e69a58a3cb4abef7c2059ba7bbf5186e7b368b039e493819"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "176ea17692c0d6c7dc09a057ed637944622dcf1414c468797a20a12faebd7783"
 metafile = true
 
 [[files]]
@@ -295,6 +350,21 @@ hash = "d70615ecd77c24c07fac4bc89797b19fa0e63f3028477aadaca95e138c4e617e"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "fa25779d8061f5614d7957b00127bea80aadf71df7f8f6e9e6d4b5a6e98a9764"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "933b8a3ad0fe426f74d065c4a9524ef78eb2e08dda5490cca26cf5d16fe94090"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "466bedaf493490fa967cc6c274125cc8d3facd87ac1c8dd21a5aa74926b39099"
 metafile = true
@@ -337,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/unearthed.pw.toml"
 hash = "36a61351de67e3c86a40fe83659d9da2fd9dc3d84ec92c5814655e2ca4a886f1"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "6f6f9795b9317427dce5d7d4970ed71307b0141b8490cdcef1b19a4c8c100c66"
 metafile = true
 
 [[files]]

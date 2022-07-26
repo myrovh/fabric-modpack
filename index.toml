@@ -330,6 +330,21 @@ hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "d6fe7bafcf70423e17d05f3d21a502ca31a1115db4b5e774a95df611dae248a4"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "1ccfd677a7cb6b2f5ab58f7b4b631f3c4974bf597111d3a8700036a811518b4c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "03f6d4651da69de498d2033f9cec972d59878abbef08131eb8f0d9b1ab5d2dba"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "1c664e463bb0e1c63285620539622a2253cdcb35d1042514add8ce040c6c3cd2"
 metafile = true
@@ -492,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "94362e14185934d7086269dc6a6acb28469fa39b67bb81021cee289fba7ef558"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
 metafile = true
 
 [[files]]

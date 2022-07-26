@@ -81,9 +81,13 @@
 - Keymap
 - Momentum Fabric
 - FallingTree
+- FTB Chunks
 
 ## Libs
 
+- ftb teams
+- ftb library
+- owo
 - Geko
 - Architectury API
 - badpackets

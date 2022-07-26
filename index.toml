@@ -185,11 +185,6 @@ hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml"
-hash = "e02d663eb05ced05c6b525a6dea26e4a0652e3778fc6dba27649b9a4eabfa533"
-metafile = true
-
-[[files]]
 file = "mods/columns.pw.toml"
 hash = "84fabbc4ff861e39214506ced0cf9a4ff12ab2b798478ff9ed3d619ad6ffb189"
 metafile = true
@@ -265,6 +260,11 @@ hash = "9866735e21df63a53081d54a26cbc83fce6a6f5bfd89a13645a60534a415e80c"
 metafile = true
 
 [[files]]
+file = "mods/dynamic_asset_generator.pw.toml"
+hash = "5a767ca1df304c8518625f25e04381389954e6dec54282b187ca17f60d1e3621"
+metafile = true
+
+[[files]]
 file = "mods/earthbounds.pw.toml"
 hash = "6829262aef70acab50c413eb88880e9679d3a6eb8e96af468f6b0718fd8583bb"
 metafile = true
@@ -301,12 +301,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
+hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
+hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "dcf7a643d0322e89a455b7c769acb6643384eb32d75c1eab55f16ca9604cbf3c"
+hash = "fb33c1990b8d500bd1217815dde155df58b21c683eae4cc3ca5ee78e9f5a4a55"
 metafile = true
 
 [[files]]
@@ -372,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/item-model-fix.pw.toml"
 hash = "130976ca98c3b2514ba7f4246dfb1e9ceff213d8a1ff62748c26461b5e345085"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "34cf204f9b291735f08270c26d8b8e091055bf55aa388af0f2248616059a0c27"
 metafile = true
 
 [[files]]
@@ -431,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "d8e6e1b06fa2d717627036d1e9f907b493bf43720fa94b422f546b91c6ad9c8c"
+hash = "a8c959cce7fd2e7d76864471b359444db5f364d2d0e6e8c80e4983abbcdec9f3"
 metafile = true
 
 [[files]]
@@ -516,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "d70615ecd77c24c07fac4bc89797b19fa0e63f3028477aadaca95e138c4e617e"
+hash = "16514b6c4266fc643e4c92f746d318c158c52992a20a26c2e42a2ca1ad1c8597"
 metafile = true
 
 [[files]]
@@ -551,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "38fc3f777c6de2f912f494480f4b255621d5c8392ef5429f33dc2d4ab259828d"
+hash = "ad27e053a8fdcbd2fad45c1ac9588675c2e76762102ff89df4b223a5c9778f67"
 metafile = true
 
 [[files]]

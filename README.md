@@ -9,6 +9,8 @@
 - Towns and Tower - Structure Add-on
 - BetterNether
 - BetterEnd
+- Goodall
+- Probably Chests
 
 ## Cosmetics
 
@@ -38,6 +40,9 @@
 - Journeymap
 - JoruneyMap Integration
 - NoRecipeBook
+- Dynamic Crosshair
+- Dynamic Crosshair Compat
+- Emoji Type
 
 ## Food
 
@@ -55,6 +60,7 @@
 - Advanced Peripherals
 - Extended Drawers
 - Red Bits
+- Iron Chests: Restocked
 
 ## Magic
 
@@ -69,9 +75,13 @@
 - Universal Graves
 - Leaves Us In Peace
 - Shuffle
+- Keymap
+- Momentum Fabric
+- FallingTree
 
 ## Libs
 
+- Geko
 - Architectury API
 - badpackets
 - Cloth Config

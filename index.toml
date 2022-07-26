@@ -245,6 +245,16 @@ hash = "693344ce972691fd891344a4b8d02d8860495ab2ad6c0c3f6996a2c004e6cf1a"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-crosshair-compat.pw.toml"
+hash = "d475d3cf80c4edd30d859851a9c0cdb5927a7d8dbb1d22aeba658b5d1d94059d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-crosshair.pw.toml"
+hash = "f9da50ab43549e580da769cf8ed59e4f7c68824281f00efd592a404a2f2b56d4"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "9866735e21df63a53081d54a26cbc83fce6a6f5bfd89a13645a60534a415e80c"
 metafile = true
@@ -252,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/earthbounds.pw.toml"
 hash = "6829262aef70acab50c413eb88880e9679d3a6eb8e96af468f6b0718fd8583bb"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type-fabric.pw.toml"
+hash = "c82bc96451ef16702b2cb221eac06730b49292056596b21700af43ac6bfd8396"
 metafile = true
 
 [[files]]
@@ -295,6 +310,11 @@ hash = "030e34ba54fefada773a654f70101dedde7d1729733662aa2ff181bb02e9f3ba"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
+metafile = true
+
+[[files]]
 file = "mods/farsight-fabric.pw.toml"
 hash = "ecb17721dcccf4624904edbc294e6d15534b477bea36220530d9bd0eea36084f"
 metafile = true
@@ -307,6 +327,16 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "1c664e463bb0e1c63285620539622a2253cdcb35d1042514add8ce040c6c3cd2"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "810dfe46f616e54d2659432edcab7fa0f0c0c53ea9773ce817647ee483278920"
+metafile = true
+
+[[files]]
+file = "mods/goodall.pw.toml"
+hash = "2d43ed22d21ba49951c5659e13014d83e8f66f0b9dc34914b617c7b3733badcc"
 metafile = true
 
 [[files]]
@@ -325,6 +355,11 @@ hash = "dcf7a643d0322e89a455b7c769acb6643384eb32d75c1eab55f16ca9604cbf3c"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "ff95e1ec18d59d354e12be1f57393dbfa09025d1d40acc4ff3858bed18dbca04"
+metafile = true
+
+[[files]]
 file = "mods/item-model-fix.pw.toml"
 hash = "130976ca98c3b2514ba7f4246dfb1e9ceff213d8a1ff62748c26461b5e345085"
 metafile = true
@@ -337,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "3804ed093c0654b04502966d170014bd4387aa32f563882a1b9bdc21339dff79"
+metafile = true
+
+[[files]]
+file = "mods/keymap.pw.toml"
+hash = "2d1719fb0cbaf24deff80291f2366ed49b99191ae6cc916e63ff0cac91908a94"
 metafile = true
 
 [[files]]
@@ -400,6 +440,11 @@ hash = "6c9b5d25b21023da5d545239481e6a720f73ab4eb1efe59ed8f5e799b8157a36"
 metafile = true
 
 [[files]]
+file = "mods/momentum-fabric.pw.toml"
+hash = "a5165e9bb270a0f49f801b8bea7bf9fe564640b5c652be162fcf8de789fbc6c4"
+metafile = true
+
+[[files]]
 file = "mods/more-chat-history.pw.toml"
 hash = "b69bacf0a2afbca4d8633ab15742c6aa0bc1d0799d508db6d3dd4f77fda856c0"
 metafile = true
@@ -437,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "973bd6c595505db1555232699ee8a2a1498117eca8ab5613b1f519497057e080"
+metafile = true
+
+[[files]]
+file = "mods/probably-chests.pw.toml"
+hash = "0a275bd09d55b142b3aaf37e59c12fc9f61155f903735fcfd3259b7fe16af4be"
 metafile = true
 
 [[files]]

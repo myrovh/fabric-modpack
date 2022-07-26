@@ -21,6 +21,10 @@ file = "config/sandwichable.json"
 hash = "74ab14ff3d048b02e0b40bda6f7e6f7e8808a86312748fec548a06e92ce474ea"
 
 [[files]]
+file = "config/unearthed.json5"
+hash = "8341cca69a1c9c416193c3b350acc2248c756f03ca3db1becea3d9719e0ed160"
+
+[[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
 
@@ -314,6 +318,11 @@ hash = "cb53e3d125e25bc7e69a58a3cb4abef7c2059ba7bbf5186e7b368b039e493819"
 metafile = true
 
 [[files]]
+file = "mods/meal-api.pw.toml"
+hash = "96c949aa6b3b4f4d5312a17b7e5404d1257b04224f6ef7d2023fd4c1f315a9c1"
+metafile = true
+
+[[files]]
 file = "mods/megane.pw.toml"
 hash = "176ea17692c0d6c7dc09a057ed637944622dcf1414c468797a20a12faebd7783"
 metafile = true
@@ -329,6 +338,11 @@ hash = "39d5732c863914a74bb726dbec5b664576acbbaab3f77be1fa135ef969ca0820"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "f62473fe712df3c11deef509ba6759d815f2f31d881ea7cd87434f61ce77bf07"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6c9b5d25b21023da5d545239481e6a720f73ab4eb1efe59ed8f5e799b8157a36"
 metafile = true
@@ -336,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/more-chat-history.pw.toml"
 hash = "b69bacf0a2afbca4d8633ab15742c6aa0bc1d0799d508db6d3dd4f77fda856c0"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "3658e9998e84e8058d7eee429c19059206fe54deb69a6bc4f07f59d9ef9ff865"
 metafile = true
 
 [[files]]
@@ -399,6 +418,11 @@ hash = "ef4c9832e3b850deb78e8a59fe5da9725289094a2d7bea88bcf7792c413638eb"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "93af5654e5c4166938eb04d8117302f21e65d5c1096a858015935339336d95b0"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "73259e05c16e2461736d7d7ddc8775ca97c9efd70e6a912dc2280e2bf2c67396"
 metafile = true
@@ -406,6 +430,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "70898b7bbec4d43ae064318e9a6038f11d518b5f7f0622108b5aa0584e1527b3"
 metafile = true
 
 [[files]]

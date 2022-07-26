@@ -9,8 +9,10 @@
 - Towns and Tower - Structure Add-on
 - BetterNether
 - BetterEnd
-- Goodall
 - Probably Chests
+- Goodall
+- Creeper Overhaul
+- Naturalist
 
 ## Cosmetics
 
@@ -24,6 +26,7 @@
 - Distant Horizons (optional)
 - Farsight (optional)
 - Iris Shaders (optional)
+- Illuminations
 
 ## UI
 

@@ -210,6 +210,11 @@ hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "485b6f976217cc14dc0f3c6f01797daa400446acc0bbacb60c0de018acc5b17c"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "8f3bd670eadd9b510ced2311c7da0b2444c25f1e9b0ece1fcb1421f4073c1dbf"
 metafile = true
@@ -345,6 +350,11 @@ hash = "dd414adfc936eecc6dcdd0639a10015602dac71d80a7b1008265ba94f1a88648"
 metafile = true
 
 [[files]]
+file = "mods/illuminations.pw.toml"
+hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "02722223adadce8166931d17e6583e9af9059c2e1e7ec7df9fa92c8300cef714"
 metafile = true
@@ -452,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "c00114ebbbdf5b001d7a81f9508a6c6675fab5e7cff89de3cc7d763e7ab33427"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "1ee6fb30ec330b959f8a8034577b0880cd9cf53cd8af988d4233cb69d68e892d"
 metafile = true
 
 [[files]]

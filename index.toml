@@ -473,6 +473,36 @@ hash = "ff9bbf3a811c1959f7d3ef0865c394a8528734fbd44dd8de498444b31fcc506d"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "b5e74fec582f1dc10fda86a3c41c00821f15471285c2570c7c9ace3316a438be"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.pw.toml"
+hash = "155eda7a63a53cce08924e9f9c64aa505b5d7a848f1a592e7ec061154012115d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.pw.toml"
+hash = "7eb509430f5866b8ebfef43e21cd4b9a73cf6056d18b0cf2cb4ae3cb884dfe06"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.pw.toml"
+hash = "ddb9cf5438bf572b458b64eafcddfb42fb9f719b8cb4bf07412d8da73eb72ce6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-fabric.pw.toml"
+hash = "f5e31a96c4fa606b9be31feb224160b35ee7fdfe425aaba792a6a108d706b985"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-fabric.pw.toml"
+hash = "43def9ff7e9948695c694d2395f21254fa857d50a4f8bd6f8c40ebd96655769e"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "09769ba020fda1f25d7a66c44e16c42cc1b740937a3aac1d3efac58a88d2941c"
 metafile = true

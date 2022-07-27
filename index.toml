@@ -25,6 +25,10 @@ file = "config/unearthed.json5"
 hash = "8341cca69a1c9c416193c3b350acc2248c756f03ca3db1becea3d9719e0ed160"
 
 [[files]]
+file = "config/universal-graves.json"
+hash = "3e8f5030a0feec112fb2c2dde1a3f1ac16600a35853efee6013d46833e312d8d"
+
+[[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
 
@@ -228,6 +232,16 @@ hash = "9866735e21df63a53081d54a26cbc83fce6a6f5bfd89a13645a60534a415e80c"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "406d800c7fd8e408b5aa1451bfebe39b596a93b3dba16e11717c434743d10810"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "1ed37cc07b9b3e50a81e9978661cfe206abb3a2543eae3ed39460602b2203ebd"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "9c287b212b19c39e0357dc51417c063cb1543c18124a480f1b1fc629957a3ae3"
 metafile = true
@@ -265,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "030e34ba54fefada773a654f70101dedde7d1729733662aa2ff181bb02e9f3ba"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
 metafile = true
 
 [[files]]
@@ -310,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "d35f37a8030fcea2d00f21143a7918ff9e6b654e3406e07646e1f27a4330f71a"
+metafile = true
+
+[[files]]
+file = "mods/keymap.pw.toml"
+hash = "2d1719fb0cbaf24deff80291f2366ed49b99191ae6cc916e63ff0cac91908a94"
 metafile = true
 
 [[files]]
@@ -365,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6c9b5d25b21023da5d545239481e6a720f73ab4eb1efe59ed8f5e799b8157a36"
+metafile = true
+
+[[files]]
+file = "mods/momentum-fabric.pw.toml"
+hash = "a5165e9bb270a0f49f801b8bea7bf9fe564640b5c652be162fcf8de789fbc6c4"
 metafile = true
 
 [[files]]
@@ -433,6 +462,11 @@ hash = "933b8a3ad0fe426f74d065c4a9524ef78eb2e08dda5490cca26cf5d16fe94090"
 metafile = true
 
 [[files]]
+file = "mods/shuffle.pw.toml"
+hash = "4a59b119c5a04e77e90c951f041112f88ee4f7faad55d929cd3cb75693a76bcd"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "466bedaf493490fa967cc6c274125cc8d3facd87ac1c8dd21a5aa74926b39099"
 metafile = true
@@ -485,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/unearthed.pw.toml"
 hash = "36a61351de67e3c86a40fe83659d9da2fd9dc3d84ec92c5814655e2ca4a886f1"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "7949ca44b40c64a5ddcd1f1ca33b89ed8af392ca1f468c74411a8d3fe260baf6"
 metafile = true
 
 [[files]]

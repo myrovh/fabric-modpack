@@ -4,6 +4,7 @@
 
 - Terralith
 - Incendium
+- Towns and Tower - Structure Add-on *
 - Unearthed
 - Twigs
 - Structory
@@ -13,6 +14,10 @@
   - strongholds
   - bridges
   - extra
+- Goodall *
+- Creeper Overhaul *
+- Naturalist *
+- Probably Chests *
 
 ## Cosmetics
 
@@ -30,11 +35,23 @@
 - CC: Restitched
 - Create
 - CreatePlus
+- Red Bits *
+- Iron Chests: Restocked *
 
 ## Magic
 
-- Botania
-- Bewitchment
+- Botania *
+- Fabric Waystones *
+- Tax Free Levels *
+- Purpeille *
+
+## Util
+
+- Universal Graves
+- Shuffle
+- Keymap
+- Momentum Fabric
+- FallingTree
 
 ## UI
 
@@ -50,6 +67,9 @@
 - TabTPS
 - Journeymap
 - NoRecipeBook
+- Dynamic Crosshair
+- Dynamic Crosshair Compat
+- Inspecio
 
 ## Visuals
 

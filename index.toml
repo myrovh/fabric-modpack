@@ -147,11 +147,6 @@ hash = "85d6e453a9bb4076a0baad9a9d91797b1359b762a61a00c73bbf8ee2b8f14808"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "c51b2debf279f00698763034cbab2694984838529ac30ec51d865ce33d106270"
 metafile = true
@@ -159,11 +154,6 @@ metafile = true
 [[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "6e8713b234f6c251eee4107e44a799d7ba3039c7f45f33371292e05ae6c54422"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
 metafile = true
 
 [[files]]
@@ -313,12 +303,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
+hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
+hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
 metafile = true
 
 [[files]]
@@ -378,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "dcf7a643d0322e89a455b7c769acb6643384eb32d75c1eab55f16ca9604cbf3c"
+hash = "fb33c1990b8d500bd1217815dde155df58b21c683eae4cc3ca5ee78e9f5a4a55"
 metafile = true
 
 [[files]]
@@ -448,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "d8e6e1b06fa2d717627036d1e9f907b493bf43720fa94b422f546b91c6ad9c8c"
+hash = "a8c959cce7fd2e7d76864471b359444db5f364d2d0e6e8c80e4983abbcdec9f3"
 metafile = true
 
 [[files]]
@@ -538,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "d70615ecd77c24c07fac4bc89797b19fa0e63f3028477aadaca95e138c4e617e"
+hash = "16514b6c4266fc643e4c92f746d318c158c52992a20a26c2e42a2ca1ad1c8597"
 metafile = true
 
 [[files]]
@@ -548,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "fa25779d8061f5614d7957b00127bea80aadf71df7f8f6e9e6d4b5a6e98a9764"
+hash = "b4d592a547646ee8c1645b8c892348a5bd6772ae4dc821125b9b6888826b3695"
 metafile = true
 
 [[files]]
@@ -573,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "38fc3f777c6de2f912f494480f4b255621d5c8392ef5429f33dc2d4ab259828d"
+hash = "ad27e053a8fdcbd2fad45c1ac9588675c2e76762102ff89df4b223a5c9778f67"
 metafile = true
 
 [[files]]

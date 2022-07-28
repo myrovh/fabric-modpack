@@ -132,13 +132,28 @@ hash = "109a2bb4f7407b83c3470846349b162fd04cf2cd66d0534643d101f54f69721e"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "1f11e5764ec8585bd0edb068010c47cae9162a8740ab87506d52c6aa81ac48d5"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "85d6e453a9bb4076a0baad9a9d91797b1359b762a61a00c73bbf8ee2b8f14808"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "c51b2debf279f00698763034cbab2694984838529ac30ec51d865ce33d106270"
+metafile = true
+
+[[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "6e8713b234f6c251eee4107e44a799d7ba3039c7f45f33371292e05ae6c54422"
 metafile = true
 
 [[files]]
@@ -184,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/createplus.pw.toml"
 hash = "8a4802536ab925162bb3e343137d56d0958453f559a38515ff686f49446e81db"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "485b6f976217cc14dc0f3c6f01797daa400446acc0bbacb60c0de018acc5b17c"
 metafile = true
 
 [[files]]
@@ -292,8 +312,23 @@ hash = "ecb17721dcccf4624904edbc294e6d15534b477bea36220530d9bd0eea36084f"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "eeeb1b93d454b1bebe407c191c1fd90eacf82456bf41585ca90d8fc5c4e84653"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "810dfe46f616e54d2659432edcab7fa0f0c0c53ea9773ce817647ee483278920"
+metafile = true
+
+[[files]]
+file = "mods/goodall.pw.toml"
+hash = "2d43ed22d21ba49951c5659e13014d83e8f66f0b9dc34914b617c7b3733badcc"
 metafile = true
 
 [[files]]
@@ -407,6 +442,21 @@ hash = "c00114ebbbdf5b001d7a81f9508a6c6675fab5e7cff89de3cc7d763e7ab33427"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "1ee6fb30ec330b959f8a8034577b0880cd9cf53cd8af988d4233cb69d68e892d"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix-fabric.pw.toml"
+hash = "4337963523796d1b7be7e5a18774be0ce3c0f1581146191b9a8445d7e8cdaf8b"
+metafile = true
+
+[[files]]
 file = "mods/no-fade.pw.toml"
 hash = "a2f3df885984de9d90766c40c5ec4119769c9ffe8291364ff5f5403ba547fb32"
 metafile = true
@@ -429,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
+metafile = true
+
+[[files]]
+file = "mods/probably-chests.pw.toml"
+hash = "0a275bd09d55b142b3aaf37e59c12fc9f61155f903735fcfd3259b7fe16af4be"
 metafile = true
 
 [[files]]
@@ -512,6 +567,11 @@ hash = "521243f1869918c709d94db11f69e3b1268a652bac8af0973dec7ee1b4583170"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers-structure-add-on.pw.toml"
+hash = "277f342e84421ba39688aee920c71c253cf5f6821f4c4551acd07df58130f3aa"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
 metafile = true
@@ -574,4 +634,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "09769ba020fda1f25d7a66c44e16c42cc1b740937a3aac1d3efac58a88d2941c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/creeper-overhaul-overhaul.pw.toml"
+hash = "e2c53e78f6f114af2a8f2039eb76ae4c948bb0d524b002466f3a2523f5d9db1b"
 metafile = true

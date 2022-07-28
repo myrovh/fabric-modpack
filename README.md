@@ -1,10 +1,17 @@
-# fabric-modpack
+# Myrovh's Modpack (fabric)
+
+## Fixes
+
+- Nether Portal Fix
+- Feature NBT Deadlock Be Gone
+- Better Nether Map
+- AttributeFix
 
 ## World Gen
 
 - Terralith
 - Incendium
-- Towns and Tower - Structure Add-on *
+- Towns and Tower - Structure Add-on
 - Unearthed
 - Twigs
 - Structory
@@ -14,10 +21,10 @@
   - strongholds
   - bridges
   - extra
-- Goodall *
-- Creeper Overhaul *
-- Naturalist *
-- Probably Chests *
+- Goodall
+- Creeper Overhaul
+- Naturalist
+- Probably Chests
 
 ## Cosmetics
 
@@ -52,6 +59,7 @@
 - Keymap
 - Momentum Fabric
 - FallingTree
+- Nature's Compass
 
 ## UI
 
@@ -81,3 +89,9 @@
 
 - Meal API
 
+## TODO
+
+- emi
+- couplings
+- wiredredstone
+- map-atlases

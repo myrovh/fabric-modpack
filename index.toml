@@ -207,6 +207,11 @@ hash = "1707339227e49193dd206fb053da7a7f54d5968ca20ea17b6274b6e8a41034fa"
 metafile = true
 
 [[files]]
+file = "mods/couplings.pw.toml"
+hash = "600d5aaeaa304466907ecf988a37f27e9348ad84c12a7c8d389fdbad46c934de"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "c5bd4a4596e5a5b994963e8804a10fab35729c3ce86e6f5797efa38ccefab0bc"
 metafile = true
@@ -279,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshaircompat.pw.toml"
 hash = "1ed37cc07b9b3e50a81e9978661cfe206abb3a2543eae3ed39460602b2203ebd"
-metafile = true
-
-[[files]]
-file = "mods/enderscape.pw.toml"
-hash = "21c89cfc789fe0171ea2911506f4ba2584a1f7e1fdfab36434a86c8a2e05b431"
 metafile = true
 
 [[files]]
@@ -429,6 +429,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "cb53e3d125e25bc7e69a58a3cb4abef7c2059ba7bbf5186e7b368b039e493819"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "fbbe17f5d61d3d21dbbdcb4dd83e8660172b32eb13341860855dd517f3b59a83"
 metafile = true
 
 [[files]]
@@ -634,6 +639,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "7949ca44b40c64a5ddcd1f1ca33b89ed8af392ca1f468c74411a8d3fe260baf6"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "2f0568fb1dc90f4a9783af9d3196edc3dc9ee5cdcd1eb1cb42080dd8bef3ade6"
 metafile = true
 
 [[files]]

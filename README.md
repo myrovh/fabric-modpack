@@ -14,7 +14,6 @@
 - Incendium
 - Towns and Tower - Structure Add-on
 - Structory
-- Enderscape
 - yungs
   - dungeons
   - mineshafts
@@ -35,10 +34,6 @@
 - Twigs
 - Adorn
 
-## Adventure
-
-- BetterEnd
-
 ## Food
 
 - Sandwichable
@@ -53,6 +48,7 @@
 - CC: Restitched
 - Alternate Current
 - Red Bits
+- Wired Redstone
 - Iron Chests: Restocked
 
 ## Magic
@@ -69,6 +65,8 @@
 - Momentum Fabric
 - FallingTree
 - Nature's Compass
+- Couplings
+- Map Atlases
 
 ## UI
 
@@ -97,11 +95,7 @@
 ## Libraries
 
 - Meal API
-- BCLib
 
 ## TODO
 
 - emi
-- couplings
-- wiredredstone
-- map-atlases

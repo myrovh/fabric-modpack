@@ -62,11 +62,11 @@
 - Universal Graves
 - Shuffle
 - Keymap
-- Momentum Fabric
 - FallingTree
 - Nature's Compass
 - Couplings
 - Map Atlases
+- FTB Ultimine
 
 ## UI
 
@@ -80,6 +80,7 @@
 - Megane
 - RightClickHarvest
 - TabTPS
+- BetterF3
 - Journeymap
 - NoRecipeBook
 - Dynamic Crosshair
@@ -95,7 +96,9 @@
 ## Libraries
 
 - Meal API
-
-## TODO
-
-- emi
+- Balm
+- badpackets
+- Trinkets
+- Yungs API
+- Dynamic Asset Generator
+- Gekolib

@@ -147,6 +147,11 @@ hash = "85d6e453a9bb4076a0baad9a9d91797b1359b762a61a00c73bbf8ee2b8f14808"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "c51b2debf279f00698763034cbab2694984838529ac30ec51d865ce33d106270"
 metafile = true
@@ -157,8 +162,18 @@ hash = "6e8713b234f6c251eee4107e44a799d7ba3039c7f45f33371292e05ae6c54422"
 metafile = true
 
 [[files]]
+file = "mods/betterend.pw.toml"
+hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b5243051016ee9b33e501fd3520c50bd2ad1fba93158b2adf42318c2f062c421"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
 metafile = true
 
 [[files]]
@@ -242,6 +257,11 @@ hash = "693344ce972691fd891344a4b8d02d8860495ab2ad6c0c3f6996a2c004e6cf1a"
 metafile = true
 
 [[files]]
+file = "mods/duckling.pw.toml"
+hash = "72e8d77e94540489351efb0b7e639307b3494e9ecaf670bf4ea3cbed861eafc2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-asset-generator.pw.toml"
 hash = "64e403e0e26ff37afab520af75ed95db29c3dc3dcbd1522a6d84db56e31b762e"
 metafile = true
@@ -259,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshaircompat.pw.toml"
 hash = "1ed37cc07b9b3e50a81e9978661cfe206abb3a2543eae3ed39460602b2203ebd"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "21c89cfc789fe0171ea2911506f4ba2584a1f7e1fdfab36434a86c8a2e05b431"
 metafile = true
 
 [[files]]
@@ -322,6 +347,11 @@ hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "1c664e463bb0e1c63285620539622a2253cdcb35d1042514add8ce040c6c3cd2"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "810dfe46f616e54d2659432edcab7fa0f0c0c53ea9773ce817647ee483278920"
 metafile = true
@@ -349,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "dcf7a643d0322e89a455b7c769acb6643384eb32d75c1eab55f16ca9604cbf3c"
+metafile = true
+
+[[files]]
+file = "mods/ironchests.pw.toml"
+hash = "ff95e1ec18d59d354e12be1f57393dbfa09025d1d40acc4ff3858bed18dbca04"
 metafile = true
 
 [[files]]
@@ -492,6 +527,11 @@ hash = "5ceec8475eddc2c900cdb9cfb1976613397b21dcba1d0e4fad918f71607575b7"
 metafile = true
 
 [[files]]
+file = "mods/red-bits.pw.toml"
+hash = "bc90e9d800450a89711aeffa8fbb0a9aa03923cfb81ba1acdabd8ed8807c9a5e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "d70615ecd77c24c07fac4bc89797b19fa0e63f3028477aadaca95e138c4e617e"
 metafile = true
@@ -557,6 +597,11 @@ hash = "70898b7bbec4d43ae064318e9a6038f11d518b5f7f0622108b5aa0584e1527b3"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "a2545ca26dcfa338761c72d2cafc001c1b27f27829cbef1e63bf16649e9a4f2d"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
 metafile = true
@@ -569,6 +614,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers-structure-add-on.pw.toml"
 hash = "277f342e84421ba39688aee920c71c253cf5f6821f4c4551acd07df58130f3aa"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
 
 [[files]]

@@ -9,26 +9,35 @@
 
 ## World Gen
 
+- Unearthed
 - Terralith
 - Incendium
 - Towns and Tower - Structure Add-on
-- Unearthed
-- Twigs
 - Structory
+- Enderscape
 - yungs
   - dungeons
   - mineshafts
   - strongholds
   - bridges
   - extra
+
+## Mobs
+
 - Goodall
 - Creeper Overhaul
 - Naturalist
 - Probably Chests
+- Duckling
 
 ## Cosmetics
 
+- Twigs
 - Adorn
+
+## Adventure
+
+- BetterEnd
 
 ## Food
 
@@ -38,19 +47,19 @@
 
 ## Tech
 
-- Alternate Current
-- CC: Restitched
 - Create
 - CreatePlus
-- Red Bits *
-- Iron Chests: Restocked *
+- Modern Industrialization
+- CC: Restitched
+- Alternate Current
+- Red Bits
+- Iron Chests: Restocked
 
 ## Magic
 
-- Botania *
-- Fabric Waystones *
-- Tax Free Levels *
-- Purpeille *
+- Botania
+- Fabric Waystones
+- Tax Free Levels
 
 ## Util
 
@@ -88,6 +97,7 @@
 ## Libraries
 
 - Meal API
+- BCLib
 
 ## TODO
 
